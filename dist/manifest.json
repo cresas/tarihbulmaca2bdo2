@@ -1,15 +1,15 @@
 {
-  "src/main-Dkx_16l2.css": {
-    "file": "assets/main-Dkx_16l2.css",
-    "src": "src/main-Dkx_16l2.css"
+  "src/main-BtBvaTVS.css": {
+    "file": "assets/main-BtBvaTVS.css",
+    "src": "src/main-BtBvaTVS.css"
   },
   "src/main.jsx": {
-    "file": "assets/main-DpdflLv9.js",
+    "file": "assets/main-DZ7GvA2C.js",
     "name": "main",
     "src": "src/main.jsx",
     "isEntry": true,
     "css": [
-      "assets/main-Dkx_16l2.css"
+      "assets/main-BtBvaTVS.css"
     ]
   }
 }
